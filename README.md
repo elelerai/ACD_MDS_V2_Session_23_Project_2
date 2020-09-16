@@ -1,5 +1,7 @@
-# ACD_MDS_V2_Session_23_Project_2
+# Python Predictive Modelling
+
 ## Predicting players rating
+
 In this project you are going to predict the overall rating of soccer player based on their attributes
 such as 'crossing', 'finishing etc.
 The dataset you are going to use is from European Soccer Database
